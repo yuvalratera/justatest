@@ -1,0 +1,84 @@
+SKU,Category,Sub category
+Webroot-DNS-1M,Security,DNS Security
+Webroot-Endpoint-1M,Security,Endpoint Security
+Webroot-SAT-1M,Security,Security Awareness Training
+Acronis-CyberBackup-M,Data Protection,Backup
+Acronis-CP-PartnerOwnedBackup-M,Data Protection,Backup
+Acronis-LocalBackup-M,Data Protection,Backup
+Acronis-AdvBackup-Server-M,Data Protection,Backup
+Acronis-AdvBackup-VM-M,Data Protection,Backup
+Acronis-AdvBackup-Workstation-M,Data Protection,Backup
+Acronis-AdvBackup-HostingServer-M,Data Protection,Backup
+Acronis-AdvSecurity-M,Security,Endpoint Security
+Acronis-AdvDR-AcronisHostedStorage-M,Disaster Recovery,Disaster Recovery as a Service
+Acronis-AdvDR-HybridStorage-M,Disaster Recovery,Disaster Recovery as a Service
+Acronis-AdvDR-AcronisHostedCP-M,Disaster Recovery,Disaster Recovery as a Service
+Acronis-AdvDR-AcronisHostedPublicIP-M,Disaster Recovery,Disaster Recovery as a Service
+Acronis-PerWorkLoadServerLicense-M,Data Protection,Backup
+Acronis-PerWorkLoadVMLicense-M,Data Protection,Backup
+Acronis-PerWorkLoadVCloudDirectorVM-M,Data Protection,Backup
+Acronis-PerWorkLoadWorkstationLicense-M,Data Protection,Backup
+Acronis-PerWorkLoadHostingServerLicense-M,Data Protection,Backup
+Acronis-PerWorkLoadM365seatAcronisHostedStorage-M,Data Protection,Backup
+Acronis-PerWorkLoadM365seatAzureorGoogleStorage-M,Data Protection,Backup
+Acronis-PerWorkLoadM365seatHostedStorage-M,Data Protection,Backup
+Acronis-PerWorkLoadMicrosoftHostedExchange-M,Data Protection,Backup
+Acronis-PerWorkLoadGoogleWorkspaceSeat-M,Data Protection,Backup
+Acronis-PerWorkLoadMobileDeviceLicense-M,Data Protection,Mobile Device Management
+Acronis-PerWorkLoadWebsiteLicense-M,Data Protection,Website Protection
+Acronis-HostedStorageWorkloadModelPerGB-M,Data Protection,Backup
+Acronis-GoogleHostedStorageWorkloadModelPerGB-M,Data Protection,Backup
+Acronis-AzureHostedStorageWorkloadModelPerGB-M,Data Protection,Backup
+Acronis-CyberFilesCloudUserLicense-M,Data Protection,Cloud File Sync and Share
+Acronis-CyberFilesCloudHostedStoragePerGB-M,Data Protection,Cloud File Sync and Share
+Acronis-AdvancedManagementPack-M,Management,IT Management
+EndUser-Remote-M,Security,Endpoint Security
+EndUser-ITDRemote-M,Security,IT Management
+Bitdefender-CloudSecurity-M,Security,Cloud Security
+Bitdefender-AdvancedThreatSecurity-M,Security,Endpoint Security
+Bitdefender-EndpointDetection-M,Security,Endpoint Security
+Bitdefender-EmailSecurity-M,Security,Email Security
+Bitdefender-DiskEncryption-M,Security,Data Protection
+Bitdefender-ExchangeSecurity-M,Security,Email Security
+Bitdefender-EDR-Standalone-M,Security,Endpoint Detection and Response
+Bitdefender-XDR-Identity-Sensors-M,Security,Extended Detection and Response
+Bitdefender-XDR-Productivity-Sensors-M,Security,Extended Detection and Response
+Bitdefender-XDR-Network-Sensors-M,Security,Extended Detection and Response
+Bitdefender-XDR-Cloud-Sensors-M,Security,Extended Detection and Response
+Bitdefender-MDR-Foundations-M,Security,Managed Detection and Response
+Bitdefender-Integrity-Monitoring-7-Days-M,Security,Vulnerability Management
+Bitdefender-Integrity-Monitoring-90-Days-M,Security,Vulnerability Management
+Bitdefender-Integrity-Monitoring-180-Days-M,Security,Vulnerability Management
+Bitdefender-Integrity-Monitoring-365-Days-M,Security,Vulnerability Management
+Axcient-RecoverD2CWorkstationLicense-M,Disaster Recovery,Disaster Recovery as a Service
+Axcient-RecoverD2CServerLicense-M,Disaster Recovery,Disaster Recovery as a Service
+Axcient-ApplianceWorkstationLicense-M,Disaster Recovery,Disaster Recovery as a Service
+Axcient-ApplianceServerLicense-M,Disaster Recovery,Disaster Recovery as a Service
+Axcient-SyncSingleUserLicense-M,Data Protection,Cloud File Sync and Share
+Axcient-CloudSingleUserLicense-M,Data Protection,Cloud File Sync and Share
+IronScales-SingleEmailProtect-M,Security,Email Security
+Emsisoft-BusinessSecurity-M,Security,Endpoint Security
+Emsisoft-AntiMalwareHome-M,Security,Endpoint Security
+Emsisoft-EnterpriseSecurity-M,Security,Endpoint Security
+Mbytes-IncidentResponse-M,Security,Incident Response
+Mbytes-EndpointProtection-M,Security,Endpoint Security
+Mbytes-EndpointProtectionForServers-M,Security,Endpoint Security
+Mbytes-EndpointProtectionAndResponse-M,Security,Endpoint Security
+Mbytes-ProtectionAndResponseServers-M,Security,Endpoint Security
+Mbytes-VulnerabilityAssessment-M,Security,Vulnerability Management
+Mbytes-VulnerabilityAndPatchManagement-M,Security,Vulnerability Management
+Mbytes-DNSFiltering-M,Security,DNS Security
+Mbytes-ManagedDetectionAndResponse-M,Security,Managed Detection and Response
+Domotz-Domotznetworkagent-M,Network Management,Network Monitoring
+Domotz-Boosterpack-M,Network Management,Network Monitoring
+Threatlocker-PlatformEndpointAgent-M,Security,Endpoint Security
+ESET-Protect-Entry-M,Security,Endpoint Security
+ESET-Protect-Advanced-M,Security,Endpoint Security
+ESET-Protect-Complete-M,Security,Endpoint Security
+ESET-Protect-Enterprise-M,Security,Endpoint Security
+Zomentum-Launch-M,Sales,Sales Enablement
+Zomentum-Launch-Extra-User-M,Sales,Sales Enablement
+Zomentum-Expand-M,Sales,Sales Enablement
+Zomentum-Expand-Extra-User-M,Sales,Sales Enablement
+Zomentum-Growth-M,Sales,Sales Enablement
+Zomentum-Growth-Extra-User-M,Sales,Sales Enablement
